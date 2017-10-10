@@ -292,7 +292,7 @@ Analysis pipeline for: Consumption of B. fragilis alters specific intestinal mic
 --------------------------------------------------------
 ## 4.1 aad.metadata.txt
 --------------------------------------------------------
-        Supplementary file of Preprocessing_and_analyze.sh,make_heatmap.r and 2D_PCoA.r
+        Supplementary file of Preprocessing_and_analyze.sh, make_heatmap.r and 2D_PCoA.r
 --------------------------------------------------------
 
 ## 4.2 closedref.params.txt
